@@ -25,5 +25,3 @@ A simple, responsive, and interactive web application that allows users to incre
 * **HTML** – For creating the structure of the app
 * **CSS** – For styling and layout customization
 * **JavaScript** – For dynamic interactivity and DOM control
-
----
