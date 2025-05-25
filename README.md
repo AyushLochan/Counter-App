@@ -1,20 +1,29 @@
-# Counter App
+# 🔢 Counter App
 
-A simple and interactive web application that lets users increment, decrement, and reset a counter. Perfect for practicing basic DOM manipulation using JavaScript.
+A simple, responsive, and interactive web application that allows users to increment, decrement, and reset a counter. This project is ideal for practicing fundamental **JavaScript DOM manipulation** skills.
 
-### 🔗 Live Demo
+---
 
-[Try the Counter App](https://ayushlochan.github.io/Counter-App/)
+### 🚀 Live Demo
 
-### ✨ Features
+👉 [**Try the Counter App**](https://ayushlochan.github.io/Counter-App/)
 
-* Increment and decrement the counter
-* Reset button to return to zero
-* Real-time counter updates
-* Clean, minimal, and responsive UI
+---
 
-### 🛠️ Built With
+### ✨ Key Features
 
-* **HTML** – for structuring the app
-* **CSS** – for styling and layout
-* **JavaScript** – for dynamic functionality and DOM manipulation
+* ➕ **Increment** the counter with a single click
+* ➖ **Decrement** the counter, down to zero or below
+* 🔁 **Reset** the counter to its default state
+* ⚡ **Instant UI updates** as you interact
+* 📱 **Responsive and minimal design** for all devices
+
+---
+
+### 🛠️ Technologies Used
+
+* **HTML** – For creating the structure of the app
+* **CSS** – For styling and layout customization
+* **JavaScript** – For dynamic interactivity and DOM control
+
+---
